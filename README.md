@@ -4,11 +4,11 @@
 Remember to activate the virtualenv ([Reference](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)).
 
 ```source
-python3 - venv env
+python3 -m venv env
 source env/bin/activate
 ```
 
-Download the chrome driver from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+Also, make sure you download the chrome driver from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
 **References:**
 * [Web Scraping Basics — Scraping a Betting Site in 10 Minutes](https://medium.com/swlh/web-scraping-basics-scraping-a-betting-site-in-10-minutes-8e0529509848)
